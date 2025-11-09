@@ -6,8 +6,8 @@ Développé par **Léa François** – Wild Code School.
 ---
 
 ## Aperçu
-![Aperçu du composant Toggle light](./image.png)
-![Aperçu du composant Toggle dark](./image-dark.png)
+![Aperçu du composant Toggle light](/src/assets/image.png)
+![Aperçu du composant Toggle dark](/src/assets/image-dark.png)
 
 ---
 
